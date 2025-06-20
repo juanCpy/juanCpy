@@ -1,4 +1,4 @@
-Hello, world! I'm juanPiment, and this is my repository!
+Hello, World! I'm juanPiment, and this is my repository!
 I am currently a Cybersecurity student, and here you'll find some of my projects/work in progress code snippets.
 
 Currently in progress:
